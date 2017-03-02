@@ -1,1 +1,3 @@
-# LINE-BOT-PHP-TEST
+<?php 
+  echo "I am a bot";
+?>
